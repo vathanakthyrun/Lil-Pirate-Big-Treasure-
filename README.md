@@ -47,10 +47,5 @@ ChatGPT :
   5. this is my set up, when i kill it the die animation is still not working
   6. how to make the screen shake only when it in my camera player
   7. currently i create a new enemies that look big. i want something like every time it walk my screen shake a little bit. can you guide me
-  8. how can i add font for the label
-  9. how to add sound effect to my enemies
-  10. when my enemies die how to make it flip over
-  11. how to download exe file in godot4
-  12. why my coin my extralife and health pickup now not spawning back when i lose all my life
-  13. when i destroy my cannon it still stuck in animation how to fix it
-  14. how to add font to label
+  8. how to add sound effect to my enemies
+
