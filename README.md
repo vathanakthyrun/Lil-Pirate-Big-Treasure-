@@ -8,6 +8,9 @@ Watch the gameplay here (Alpha game):
 Watch the gameplay here (Beta game):
 https://youtu.be/54URGLVSUUI 
 
+# Publish Game in itch.io
+this is the link to my game that i published in itch.io https://vathanak-thyrun.itch.io/ 
+
      
 <img width="2559" height="1361" alt="game1" src="https://github.com/user-attachments/assets/5073d45c-b873-4b60-8246-b04ff0edbd50" />
 
@@ -48,4 +51,5 @@ ChatGPT :
   6. how to make the screen shake only when it in my camera player
   7. currently i create a new enemies that look big. i want something like every time it walk my screen shake a little bit. can you guide me
   8. how to add sound effect to my enemies
+  
 
