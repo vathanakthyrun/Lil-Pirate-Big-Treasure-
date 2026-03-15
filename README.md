@@ -15,8 +15,8 @@ https://youtu.be/2mIeDKcE81g
 this is the link to my game that i published in itch.io https://vathanak-thyrun.itch.io/ 
 
 # Game Icon
-i just pick a random picture in my gallery to use as my icon game
 ![Screenshot](gamicon.png)
+i just pick a random picture in my gallery to use as my icon game
 
 # Current Feature
 - Player movement (move left, right, jump, double jump, dash)
