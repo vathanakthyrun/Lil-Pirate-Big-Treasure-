@@ -12,7 +12,7 @@ https://youtu.be/54URGLVSUUI
 this is the link to my game that i published in itch.io https://vathanak-thyrun.itch.io/ 
 
 # Game Icon
-![Screenshot](gameicon.png)
+![Screenshot](gamicon.png)
 
 # Current Feature
 - Player movement (move left, right, jump, double jump, dash)
