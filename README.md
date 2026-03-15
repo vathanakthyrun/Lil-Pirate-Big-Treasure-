@@ -18,6 +18,10 @@ this is the link to my game that i published in itch.io https://vathanak-thyrun.
 ![Screenshot](gamicon.png)
 i just pick a random picture in my gallery to use as my icon game
 
+# feedback from beta testing
+![Screenshot](feedback.png)
+all the bug or other suggestion from the tester already addressed 
+
 # Current Feature
 - Player movement (move left, right, jump, double jump, dash)
 - Fight animation
