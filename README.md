@@ -8,8 +8,8 @@ Watch the gameplay here (Alpha game):
 Watch the gameplay here (Beta game):
 https://youtu.be/54URGLVSUUI 
 
-Watch the final game here : 
-https://youtu.be/2mIeDKcE81g 
+# Watch final game here (Note : In this video it does not have any sound effect, i just turn it off due to the copyright in youtube. so if you want to hear any sound effect you can test it by yourself in itch.io or you can download it from the release)
+https://youtu.be/JKhETeR78dM
 
 # Publish Game in itch.io
 this is the link to my game that i published in itch.io https://vathanak-thyrun.itch.io/ 
