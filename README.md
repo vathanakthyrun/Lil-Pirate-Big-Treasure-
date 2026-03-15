@@ -11,12 +11,8 @@ https://youtu.be/54URGLVSUUI
 # Publish Game in itch.io
 this is the link to my game that i published in itch.io https://vathanak-thyrun.itch.io/ 
 
-     
-<img width="2559" height="1361" alt="game1" src="https://github.com/user-attachments/assets/5073d45c-b873-4b60-8246-b04ff0edbd50" />
+# Game Icon
 
-<img width="2559" height="1368" alt="game2" src="https://github.com/user-attachments/assets/10bbbcc4-7149-4dab-bd95-1a57eb3cbd41" />
-
-<img width="2559" height="1367" alt="game3" src="https://github.com/user-attachments/assets/1dd3f340-c9da-406b-b83e-f10d44bb0f8a" />
 
 # Current Feature
 - Player movement (move left, right, jump, double jump, dash)
