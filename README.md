@@ -8,10 +8,14 @@ Watch the gameplay here (Alpha game):
 Watch the gameplay here (Beta game):
 https://youtu.be/54URGLVSUUI 
 
+Watch the final game here : 
+https://youtu.be/2mIeDKcE81g 
+
 # Publish Game in itch.io
 this is the link to my game that i published in itch.io https://vathanak-thyrun.itch.io/ 
 
 # Game Icon
+i just pick a random picture in my gallery to use as my icon game
 ![Screenshot](gamicon.png)
 
 # Current Feature
@@ -47,5 +51,7 @@ ChatGPT :
   6. how to make the screen shake only when it in my camera player
   7. currently i create a new enemies that look big. i want something like every time it walk my screen shake a little bit. can you guide me
   8. how to add sound effect to my enemies
+  9. how to minimize my godot game
+  10. what reqirement that i should have to publish my game in itch.io
   
 
